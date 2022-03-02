@@ -1,16 +1,12 @@
-### Hi there 👋
+### Fala Dev, beleza?!😉 Eu sou o Quilion Oliveira, o Professor de Química que estuda Programação e é Apaixonado por Tecnologia!😁
 
-<!--
-**QuiLion7/QuiLion7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Estou aprendendo HTML5 e CSS3 para um dev me tornar;
+- 👨🏼‍🏫 Professor de Química Diferenciado no Ensino Médio;
+- 👩🏼‍❤️‍💋‍👨🏻 Marido Apaixonado;
+- 👨‍👩‍👦 Pai Babão e Grato;
+- 🧠 Incansável Aprendiz;
+- 🏆 Insistente em tentar;
+- 👀 Detalhista Antenado;
+- 🤦🏼‍♂️ Perdedor inconformado;
+- 🕺🏼 Entusiasta Confiante;
+- 🏃🏼 Persistente em chegar lá;
