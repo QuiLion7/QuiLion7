@@ -1,18 +1,34 @@
-<h1>Hi Dev, beauty ?!😉</h1>
+<h1 align="center">Fala Dev, Beleza ?!😉</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quilion7/)](https://www.linkedin.com/in/quilion7/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.quilportfolio.vercel.app/)](https://quilportfolio.vercel.app/)
+<div align="center">
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quilion7/)](https://www.linkedin.com/in/quilion7/)
 [![Gmail Badge](https://img.shields.io/badge/-quilbrub@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quilbrub@gmail.com)](mailto:quilbrub@gmail.com)
 
-<h2>My name is Quilion Oliveira, the Chemistry Professor who studies Programming and is Passionate about Technology!</h2>
+</div>
 
-<h4>(React JS | Next JS | Typescript | Javascript | TailwindCSS | Bootstrap | Firebase | HTML | CSS ) 🚀</h4>
 
- <div>
+
+<h3 align="center">Meu nome é Quilion Oliveira, professor de Química e Programador Front-End</h3>
+
+<h5 align="center">
+Sou um professor diferenciado, marido apaixonado, um pai babão e grato. Um entusiasta da tecnologia, que é detalhista e persistente em alcançar os objetivos. Como um perdedor inconformado eu sou um solucionador de problemas.
+</h5>
+
+<h3 align="center"> Principais Tecnologias 🚀</h3>
+
+<h2 align="center">
+   <img width=40 height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img width=40 height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img width=40 height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+   <img width=40 height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img width=40 height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   <img width=40 height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+   <img width=40 height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</h2>
+
+<h2 align="center">
   <a href="https://github.com/QuiLion7">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=QuiLion7&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuiLion7&layout=compact&langs_count=6&theme=highcontrast"/>
-</div>
-
-</div>
-
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=QuiLion7&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuiLion7&layout=compact&langs_count=6&theme=highcontrast"/>
+</h2>
