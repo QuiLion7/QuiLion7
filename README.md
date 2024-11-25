@@ -27,19 +27,19 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="2" />
+  <img width="2" /> -->
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="2" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  /> -->
 </div>
 
 ###
@@ -53,34 +53,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/quilion7" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
+<!--   <a href="https://www.linkedin.com/in/quilion7" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
   <a href="https://www.youtube.com/@quilcode" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  /></a>
-  <a href="mailto:quilbrub@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /></a>
-  <a href="https://www.instagram.com/quilion7" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
+  <a href="mailto:quilbrub@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /></a> -->
+<!--   <a href="https://www.instagram.com/quilion7" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a> -->
 </div>
 
-###
-
-<h2 align="left"></h2>
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=QuiLion7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1" height="130" alt="stats graph"  />
+<!--   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=QuiLion7&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&order=1" height="130" alt="stats graph"  /> -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=QuiLion7&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
 
-###
-
-<h2 align="left"></h2>
-
-###
-
-<div align="center">
-  <img height="auto" width="100%" src="https://media.licdn.com/dms/image/D4D16AQGVLZMBjTRLbg/profile-displaybackgroundimage-shrink_350_1400/0/1697425191721?e=1712188800&v=beta&t=LmZ52z8z9GCpdyjqjb_m9yym9pd__F1LoEN_B1OyngI"  />
-</div>
-
-###
 
