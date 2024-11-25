@@ -77,10 +77,3 @@
 <h2 align="left"></h2>
 
 ###
-
-<div align="center">
-  <img height="auto" width="100%" src="https://media.licdn.com/dms/image/D4D16AQGVLZMBjTRLbg/profile-displaybackgroundimage-shrink_350_1400/0/1697425191721?e=1712188800&v=beta&t=LmZ52z8z9GCpdyjqjb_m9yym9pd__F1LoEN_B1OyngI"  />
-</div>
-
-###
-
