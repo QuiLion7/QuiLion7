@@ -15,6 +15,8 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="2" />
+   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="javascript logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
